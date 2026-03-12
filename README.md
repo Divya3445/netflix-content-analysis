@@ -1,7 +1,6 @@
 # netflix-content-analysis
 Netflix Content Analysis project using Python and Power BI to explore content trends, genres, and country-wise distribution through an interactive dashboard.
 
-# Netflix Content Analysis 📊
 
 ## Project Overview
 
@@ -116,7 +115,7 @@ An interactive Power BI dashboard was created to visualize the insights from the
 
 ## Dashboard Preview
 
-
+images/dashboard3.png
 
 ## Conclusion
 
