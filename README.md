@@ -115,7 +115,7 @@ An interactive Power BI dashboard was created to visualize the insights from the
 
 ## Dashboard Preview
 
-images/dashboard3.png
+![Dashboard](images/dashboard3.png)
 
 ## Conclusion
 
